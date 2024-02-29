@@ -1,1 +1,1 @@
-This is our binary_trees project
+This is our binary trees project
